@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="convert_string">convert US to candian dollars</string>
+    <string name="dollars_hints">US Dollar</string>
+    <string name="textview">TextView</string>
+    <string name="output">Welcome to currency converter APP</string>
+</resources>
